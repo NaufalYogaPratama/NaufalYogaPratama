@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NextJS, Prisma, Data Science**
 
-- 💬 Ask me about **Filament, Laravel, CloUd Computing**
+- 💬 Ask me about **Filament, Laravel, Cloud Computing**
 
 - 📫 How to reach me **naufalpratama2113@gmail.com**
 
