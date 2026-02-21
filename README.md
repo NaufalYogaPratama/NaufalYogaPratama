@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Corda, NextJS, Data Science**
+- 🌱 I’m currently learning **Blockchain, NextJS, Data Science**
 
 - 💬 Ask me about **Filament, Laravel, Cloud Computing**
 
