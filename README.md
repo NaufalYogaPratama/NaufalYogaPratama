@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning **Blockchain, NextJS, Data Science**
+- 🌱 I’m currently learning **Blockchain, Web Development, Data Science**
 
-- 💬 Ask me about **Filament, Laravel, Cloud Computing**
+- 💬 Ask me about **Laravel, NextJS, Cloud Computing**
 
 - 📫 How to reach me **naufalpratama2113@gmail.com**
 </div>
