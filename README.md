@@ -39,8 +39,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalYogaPratama&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true" style="width: 50%; min-width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalYogaPratama&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="width: 40%; min-width: 300px;" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NaufalYogaPratama&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true" style="width: 50%; min-width: 300px;" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalYogaPratama&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="width: 40%; min-width: 300px;" /> -->
 </div>
 
 <div align="center">
